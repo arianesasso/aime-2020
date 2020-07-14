@@ -1,0 +1,8 @@
+# Jupyter Files
+.ipynb_checkpoints
+
+# Folders
+datasets/
+features/
+figures/
+results/
