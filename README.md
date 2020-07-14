@@ -6,7 +6,9 @@ This repository relates to section `3.2` from our paper:
 
 At the moment in pre-print: [medRxiv](https://www.medrxiv.org/content/10.1101/2020.05.27.20107243v1) Soon to be published by the [AIME 2020](http://aime20.aimedicine.info/i) conference.
 
-For running this notebooks, you will need to install previously the custmo library: [Devicely](https://github.com/hpi-dhc/devicely), everything else should happen with:
+For running this notebooks, you will need to install previously the custom library: 
+
+[Devicely](https://github.com/hpi-dhc/devicely), everything else should happen with:
 ```
 pipenv install
 pipenv shell
