@@ -25,10 +25,7 @@ The notebooks process raw PPG data and predicts blood pressure from 2 different 
 
 **EVAL**: https://www.kaggle.com/mkachuee/noninvasivebp (original)
 
-However, we processed it and used the following file as the input to our notebook:
-
-Morassi Sasso, Ariane (2020): Processed EVAL Dataset (30 secs window - normalized - bfill). figshare. 
-Dataset. https://doi.org/10.6084/m9.figshare.12649691
+However, we processed it and used the following file as the input to our notebook: https://doi.org/10.6084/m9.figshare.12649691
 
 
 **HYPE**: awaiting for approval to share.
