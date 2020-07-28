@@ -1,6 +1,6 @@
 # AIME 2020
 
-This repository relates to section `3.2` and `3.3` from our paper:
+This repository relates to section `3.2` from our paper:
 
 *HYPE: Predicting Blood Pressure from Photoplethysmograms in a Hypertensive Population*
 
@@ -8,7 +8,10 @@ At the moment in pre-print: [medRxiv](https://www.medrxiv.org/content/10.1101/20
 
 Soon to be published by the [AIME 2020](http://aime20.aimedicine.info/) conference.
 
-For running this notebooks, you will need to install previously the custom library: 
+For the code related to secion `3.3` please refer to this repository: [PPG-to-BP-Prediction-convnets](https://github.com/suparno89/PPG-to-BP-Prediction-convnets)
+
+----
+For running the notebooks, you will need to install previously a custom library: 
 
 [Devicely](https://github.com/hpi-dhc/devicely), everything else should happen with:
 ```
