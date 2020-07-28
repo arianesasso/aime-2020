@@ -1,6 +1,6 @@
 # AIME 2020
 
-This repository relates to section `3.2` from our paper:
+This repository relates to section `3.2` and `3.3` from our paper:
 
 *HYPE: Predicting Blood Pressure from Photoplethysmograms in a Hypertensive Population*
 
