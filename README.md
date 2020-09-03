@@ -33,7 +33,7 @@ The notebooks process raw PPG data and predict blood pressure for 2 different da
 However, we processed it and used the following file as the input to our notebook: https://doi.org/10.6084/m9.figshare.12649691
 
 
-**HYPE**: awaiting for approval to share.
+**HYPE**: awaiting for the de-identification process to be finalized. Interested? Please fill the following form: https://forms.gle/M8DDtuMeWGfT3k4y5
 
 # More Information about this Project
 
