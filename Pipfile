@@ -9,13 +9,13 @@ verify_ssl = true
 matplotlib = "*"
 numpy = "*"
 pandas = "*"
-seaborn = "*"
 scipy = "*"
 sklearn = "*"
 lightgbm = "*"
 tensorflow = "*"
 jupyter = "*"
-devicely = {path = "../Devicely",editable = true}
+devicely = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
