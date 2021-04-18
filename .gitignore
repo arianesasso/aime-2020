@@ -1,6 +1,9 @@
 # Jupyter Files
 .ipynb_checkpoints
 
+# macOS
+.DS_Store
+
 # Folders
 datasets/
 features/
