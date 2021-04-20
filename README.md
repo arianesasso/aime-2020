@@ -36,7 +36,7 @@ However, we processed it and used the following file as the input to our noteboo
 
 **HYPE Dataset**
 
-Since it is not possible to reproduce the results exactly as in the paper (because not all subjects wanted to donate data to the broader research community), we re-executed the scripts with the available dataset tha can be obtained after filling in the form above. This should be the output of the notebook `extract_features_and_predict_bp_from_ppg_hype.ipynb` *best_results*.
+Since it is not possible to reproduce the results exactly as in the paper (because not all subjects wanted to donate data to the broader research community), we re-executed the scripts with the available dataset tha can be obtained after filling in the form above. This should be the output of the notebook `extract_features_and_predict_bp_from_ppg_hype.ipynb` *best_results*:
 
 | **predicted\_variable** | **experiment\_type** | **k** | **MAE\_GBM\_MEAN** | **MAE\_GBM\_STD**  | **MAE\_LGBM\_MEAN** | **MAE\_LGBM\_STD** | **MAE\_RF\_MEAN**  | **MAE\_RF\_STD**   | **MAE\_LR\_MEAN**  | **MAE\_LR\_STD**   | **MAE\_DUMMY\_MEAN** | **MAE\_DUMMY\_STD** |
 | ----------------------- | -------------------- | ----- | ------------------ | ------------------ | ------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | -------------------- | ------------------- |
