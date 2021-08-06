@@ -13,7 +13,7 @@ scipy = "*"
 sklearn = "*"
 lightgbm = "*"
 jupyter = "*"
-devicely = "*"
+devicely = "0.2.5"
 seaborn = "*"
 
 [requires]
