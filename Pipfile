@@ -13,8 +13,8 @@ scipy = "*"
 sklearn = "*"
 lightgbm = "*"
 jupyter = "*"
-devicely = "*"
+devicely = "~=0.2.5"
 seaborn = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
