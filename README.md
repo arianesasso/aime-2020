@@ -1,10 +1,10 @@
 # AIME 2020
 
-This repository relates to section `3.2` in our paper:
+This repository relates to section `3.2` from our paper:
 
 **HYPE: Predicting Blood Pressure from Photoplethysmograms in a Hypertensive Population** [(Link)](https://link.springer.com/chapter/10.1007/978-3-030-59137-3_29)
 
-Best student paper at the [AIME 2020](http://aime20.aimedicine.info/) conference.
+Best student paper at the [AIME 2020](https://arianesasso.me/2020/08/12/aime-2020/) conference.
 
 For the code related to secion `3.3` please refer to this repository: [PPG-to-BP-Prediction-convnets](https://github.com/suparno89/PPG-to-BP-Prediction-convnets)
 
@@ -15,6 +15,13 @@ For running the notebooks:
 pipenv install
 pipenv shell
 pipenv run jupyter notebook
+```
+
+Please add to your `config.json` file the paths to each dataset, e. g.:
+
+```
+"hype":"../../datasets/hype", # path to the hype dataset folder
+"eval":"../../datasets/eval", # path to the processed eval dataset file referenced below
 ```
 
 The notebooks process raw PPG data and predict blood pressure for 2 different datasets:
@@ -30,7 +37,11 @@ The notebooks process raw PPG data and predict blood pressure for 2 different da
 However, we processed it and used the following file as the input to our notebook: https://doi.org/10.6084/m9.figshare.12649691
 
 
-**HYPE**: Available to the scientific community through a data agreement. Please fill in the following form: https://forms.gle/M8DDtuMeWGfT3k4y5
+**HYPE**: Available to the scientific community through a data agreement. Please
+fill in the following form: https://forms.gle/M8DDtuMeWGfT3k4y5
+
+For generating the input for section `3.3` the above data needs to be processed
+using `processing_hype_for_3_3/json_ppg_bp_window_hype.ipynb`
 
 # Results Reproducibility
 
